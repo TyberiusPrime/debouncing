@@ -10,6 +10,9 @@ name = "debouncing"
 version = "0.1.0"
 authors = [ "Tyberius Prime <tyberius_prime@coonabibba.de>"]
 edition = "2018"
+repository = "https://github.com/TyberiusPrime/debouncing"
+license = "MIT"
+
 
 
 [dependencies]
