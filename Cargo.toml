@@ -12,6 +12,7 @@ authors = [ "Tyberius Prime <tyberius_prime@coonabibba.de>"]
 edition = "2018"
 repository = "https://github.com/TyberiusPrime/debouncing"
 license = "MIT"
+description="Debounce keys in an embedded context"
 
 
 
