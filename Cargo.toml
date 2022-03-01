@@ -10,4 +10,4 @@ description="Debounce keys in an embedded context"
 
 
 [dependencies]
-no-std-compat = {version="0.1.0", features=["alloc", ]}
+no-std-compat = {version="0.4.1", features=["alloc", ]}
